@@ -1,0 +1,22 @@
+{
+  "name": "Daily Habit Tracker",
+  "short_name": "Habits",
+  "description": "A private, personal daily habit tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3fb",
+  "theme_color": "#5d4a91",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
